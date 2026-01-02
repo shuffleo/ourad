@@ -43,12 +43,6 @@
 
 ---
 
-## 版權移除請求 Copyright Removal Request
-
-如你為任何影片的版權持有人或其合法代表，並希望查詢或要求移除特定內容，請透過 GitHub 聯絡方式與我聯繫。在確認身份後，將盡快作出合理處理。
-
----
-
 ## 書籍購買連結 Book Purchase Links
 
 - **實體書 Physical copy**  
