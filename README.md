@@ -56,6 +56,7 @@
 
 - **電子書 eBook**  
   https://play.google.com/store/books/details?id=NWBWDwAAQBAJ&rdid=book-NWBWDwAAQBAJ
+  https://www.amazon.com/-/zh_TW/%E6%9B%BE%E9%8C%A6%E7%A8%8B-ebook/dp/B07KKCKDY9
 
 ---
 
